@@ -1,0 +1,4 @@
+com\bdgh\examsystem\controller\AuthControllerTest.class
+com\bdgh\examsystem\ExamSystemApplicationTests.class
+com\bdgh\examsystem\service\StudentServiceTest.class
+com\bdgh\examsystem\repository\StudentRepositoryTest.class
